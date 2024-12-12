@@ -11,3 +11,5 @@ public class Spring6AuthServerApplication {
     }
 
 }
+
+ 
